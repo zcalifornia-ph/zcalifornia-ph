@@ -65,9 +65,3 @@ I'm interested in both **research** and **applied work** around:
   <img src="https://github-readme-stats.vercel.app/api?username=zcalifornia-ph&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Zildjian California's GitHub stats" width="55%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcalifornia-ph&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" width="43%" />
 </p>
-
-<h2>✍️ Random Dev Quote</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&authorColor=2973b1&symbolColor=2973b1" alt="Random dev quote" />
-</p>
