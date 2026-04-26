@@ -13,12 +13,6 @@
   </samp>
 </p>
 
-<div align="center">
-
-![Views](https://komarev.com/ghpvc/?username=zcalifornia-ph&style=flat-square) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20my%20work-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/zecalifornia)
-
-</div>
-
 # 👋 Zildjian California
 
 I build toward the intersection of **algorithms**, **digital imaging**, **cybersecurity**, and **computing for civic systems**.
