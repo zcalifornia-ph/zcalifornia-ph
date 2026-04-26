@@ -3,14 +3,12 @@
 </p>
 
 <p align="center">
-  <samp>
-    <a href="https://github.com/zcalifornia-ph">github</a> |
-    <a href="https://zecalifornia.com">website</a> |
-    <a href="https://dev.to/zcalifornia">dev.to</a> |
-    <a href="https://linkedin.com/in/zcalifornia">linkedin</a> |
-    <a href="https://orcid.org/0009-0002-2357-7606">orcid</a> |
-    <a href="mailto:zecalifornia@up.edu.ph">email</a>
-  </samp>
+  <a href="https://github.com/zcalifornia-ph">github</a> |
+  <a href="https://zecalifornia.com">website</a> |
+  <a href="https://dev.to/zcalifornia">dev.to</a> |
+  <a href="https://linkedin.com/in/zcalifornia">linkedin</a> |
+  <a href="https://orcid.org/0009-0002-2357-7606">orcid</a> |
+  <a href="mailto:zecalifornia@up.edu.ph">email</a>
 </p>
 
 # 👋 Zildjian California
