@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://placehold.co/1200x320/0D1117/58A6FF?text=Zildjian+California+%7C+Computer+Science" alt="Zildjian California profile banner placeholder" width="100%" />
+  <img src="repo/images/cover.png" alt="Zildjian California profile banner" width="100%" />
 </p>
 
 <p align="center">
@@ -66,6 +66,8 @@ I'm interested in both **research** and **applied work** around:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcalifornia-ph&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" width="43%" />
 </p>
 
-## ✍️ Random Dev Quote
+<h2>✍️ Random Dev Quote</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&authorColor=2973b1&symbolColor=2973b1)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&authorColor=2973b1&symbolColor=2973b1" alt="Random dev quote" />
+</p>
